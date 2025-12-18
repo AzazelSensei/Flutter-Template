@@ -1,0 +1,433 @@
+{
+  "@@locale": "en",
+
+  "appName": "Shartflix",
+  "@appName": {
+    "description": "The application name"
+  },
+
+  "loading": "Loading...",
+  "@loading": {
+    "description": "Loading indicator text"
+  },
+
+  "error": "Error",
+  "@error": {
+    "description": "Generic error text"
+  },
+
+  "errorOccurred": "An error occurred",
+  "@errorOccurred": {
+    "description": "Error occurred message"
+  },
+
+  "noContentYet": "No content yet",
+  "@noContentYet": {
+    "description": "No content available message"
+  },
+
+  "success": "Success",
+  "@success": {
+    "description": "Success message"
+  },
+
+  "retry": "Retry",
+  "@retry": {
+    "description": "Retry button text"
+  },
+
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Cancel button text"
+  },
+
+  "confirm": "Confirm",
+  "@confirm": {
+    "description": "Confirm button text"
+  },
+
+  "close": "Close",
+  "@close": {
+    "description": "Close button text"
+  },
+
+  "save": "Save",
+  "@save": {
+    "description": "Save button text"
+  },
+
+  "login": "Login",
+  "@login": {
+    "description": "Login button text"
+  },
+
+  "register": "Register",
+  "@register": {
+    "description": "Register button text"
+  },
+
+  "logout": "Logout",
+  "@logout": {
+    "description": "Logout button text"
+  },
+
+  "email": "Email",
+  "@email": {
+    "description": "Email field label"
+  },
+
+  "password": "Password",
+  "@password": {
+    "description": "Password field label"
+  },
+
+  "confirmPassword": "Confirm Password",
+  "@confirmPassword": {
+    "description": "Confirm password field label"
+  },
+
+  "name": "Full Name",
+  "@name": {
+    "description": "Name field label"
+  },
+
+  "forgotPassword": "Forgot Password?",
+  "@forgotPassword": {
+    "description": "Forgot password link text"
+  },
+
+  "dontHaveAccount": "Don't have an account?",
+  "@dontHaveAccount": {
+    "description": "Sign up prompt text"
+  },
+
+  "alreadyHaveAccount": "Already have an account?",
+  "@alreadyHaveAccount": {
+    "description": "Login prompt text"
+  },
+
+  "loginFailed": "Login failed",
+  "@loginFailed": {
+    "description": "Login error message"
+  },
+
+  "registerFailed": "Registration failed",
+  "@registerFailed": {
+    "description": "Registration error message"
+  },
+
+  "passwordsNotMatch": "Passwords do not match",
+  "@passwordsNotMatch": {
+    "description": "Password mismatch error"
+  },
+
+  "sessionEnded": "Your session has ended",
+  "@sessionEnded": {
+    "description": "Session expired message"
+  },
+
+  "loginSubtitle": "Sign in with your credentials",
+  "@loginSubtitle": {
+    "description": "Login page subtitle"
+  },
+
+  "invalidEmail": "Invalid email address",
+  "@invalidEmail": {
+    "description": "Invalid email validation error"
+  },
+
+  "passwordTooShort": "Password must be at least 6 characters",
+  "@passwordTooShort": {
+    "description": "Password length validation error"
+  },
+
+  "nameTooShort": "Name must be at least 2 characters",
+  "@nameTooShort": {
+    "description": "Name length validation error"
+  },
+
+  "profile": "Profile",
+  "@profile": {
+    "description": "Profile page title"
+  },
+
+  "favorites": "My Favorites",
+  "@favorites": {
+    "description": "Favorites section title"
+  },
+
+  "addPhoto": "Add Photo",
+  "@addPhoto": {
+    "description": "Add photo button text"
+  },
+
+  "noFavorites": "No favorite movies yet",
+  "@noFavorites": {
+    "description": "Empty favorites message"
+  },
+
+  "unknownStudio": "Unknown Studio",
+  "@unknownStudio": {
+    "description": "Unknown studio fallback text"
+  },
+
+  "limitedOffer": "Limited Offer",
+  "@limitedOffer": {
+    "description": "Limited offer badge text"
+  },
+
+  "limitedOfferDescription": "Choose a token package to earn bonuses and unlock new chapters!",
+  "@limitedOfferDescription": {
+    "description": "Limited offer description text"
+  },
+
+  "spotlight": "Spotlight",
+  "@spotlight": {
+    "description": "Spotlight bonus label"
+  },
+
+  "moreLikes": "More Likes",
+  "@moreLikes": {
+    "description": "More likes bonus label"
+  },
+
+  "profileLoadFailed": "Failed to load user profile",
+  "@profileLoadFailed": {
+    "description": "Profile load error message"
+  },
+
+  "home": "Home",
+  "@home": {
+    "description": "Home page title"
+  },
+
+  "movies": "Movies",
+  "@movies": {
+    "description": "Movies tab title"
+  },
+
+  "series": "Series",
+  "@series": {
+    "description": "Series tab title"
+  },
+
+  "search": "Search",
+  "@search": {
+    "description": "Search placeholder text"
+  },
+
+  "noMovies": "No movies found",
+  "@noMovies": {
+    "description": "Empty movies list message"
+  },
+
+  "noMoviesYet": "No movies yet",
+  "@noMoviesYet": {
+    "description": "No movies available message"
+  },
+
+  "loadMore": "Load More",
+  "@loadMore": {
+    "description": "Load more button text"
+  },
+
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings page title"
+  },
+
+  "theme": "Theme",
+  "@theme": {
+    "description": "Theme setting label"
+  },
+
+  "language": "Language",
+  "@language": {
+    "description": "Language setting label"
+  },
+
+  "selectTheme": "Select Theme",
+  "@selectTheme": {
+    "description": "Theme selection header"
+  },
+
+  "selectLanguage": "Select Language",
+  "@selectLanguage": {
+    "description": "Language selection header"
+  },
+
+  "currentTheme": "Current Theme",
+  "@currentTheme": {
+    "description": "Current theme label"
+  },
+
+  "currentLanguage": "Current Language",
+  "@currentLanguage": {
+    "description": "Current language label"
+  },
+
+  "redTheme": "Red",
+  "@redTheme": {
+    "description": "Red theme name"
+  },
+
+  "blueTheme": "Blue",
+  "@blueTheme": {
+    "description": "Blue theme name"
+  },
+
+  "greenTheme": "Green",
+  "@greenTheme": {
+    "description": "Green theme name"
+  },
+
+  "purpleTheme": "Purple",
+  "@purpleTheme": {
+    "description": "Purple theme name"
+  },
+
+  "orangeTheme": "Orange",
+  "@orangeTheme": {
+    "description": "Orange theme name"
+  },
+
+  "networkError": "Check your internet connection.",
+  "@networkError": {
+    "description": "Network error message"
+  },
+
+  "serverError": "Server error. Please try again later.",
+  "@serverError": {
+    "description": "Server error message"
+  },
+
+  "unexpectedError": "An unexpected error occurred.",
+  "@unexpectedError": {
+    "description": "Unexpected error message"
+  },
+
+  "authenticationError": "Your session ended. Please login again.",
+  "@authenticationError": {
+    "description": "Authentication error message"
+  },
+
+  "orContinueWith": "or continue with:",
+  "@orContinueWith": {
+    "description": "Social login divider text"
+  },
+
+  "googleLogin": "Sign in with Google",
+  "@googleLogin": {
+    "description": "Google login button text"
+  },
+
+  "appleLogin": "Sign in with Apple",
+  "@appleLogin": {
+    "description": "Apple login button text"
+  },
+
+  "facebookLogin": "Sign in with Facebook",
+  "@facebookLogin": {
+    "description": "Facebook login button text"
+  },
+
+  "createAccount": "Create Account",
+  "@createAccount": {
+    "description": "Register page title"
+  },
+
+  "registerSubtitle": "Sign up with your information",
+  "@registerSubtitle": {
+    "description": "Register page subtitle"
+  },
+
+  "uploadPhoto": "Upload Photo",
+  "@uploadPhoto": {
+    "description": "Upload photo page title"
+  },
+
+  "uploadPhotoDescription": "You can upload an image for your profile photo",
+  "@uploadPhotoDescription": {
+    "description": "Upload photo page description"
+  },
+
+  "profileDetails": "Profile Details",
+  "@profileDetails": {
+    "description": "Profile details page title"
+  },
+
+  "continueButton": "Continue",
+  "@continueButton": {
+    "description": "Continue button text"
+  },
+
+  "skip": "Skip",
+  "@skip": {
+    "description": "Skip button text"
+  },
+
+  "photoSelectionError": "Photo selection failed",
+  "@photoSelectionError": {
+    "description": "Photo selection error message"
+  },
+
+  "yourBonuses": "Your Bonuses",
+  "@yourBonuses": {
+    "description": "Bonuses section title"
+  },
+
+  "premiumAccount": "Premium Account",
+  "@premiumAccount": {
+    "description": "Premium account bonus label"
+  },
+
+  "moreMatches": "More Matches",
+  "@moreMatches": {
+    "description": "More matches bonus label"
+  },
+
+  "selectTokenPackage": "Select a token package to unlock",
+  "@selectTokenPackage": {
+    "description": "Token package selection instruction"
+  },
+
+  "seeAllTokens": "See All Tokens",
+  "@seeAllTokens": {
+    "description": "See all tokens button text"
+  },
+
+  "termsPrefix": "I have read and accept the ",
+  "@termsPrefix": {
+    "description": "Terms checkbox prefix text"
+  },
+
+  "termsAccept": "User Agreement",
+  "@termsAccept": {
+    "description": "Terms checkbox highlighted text"
+  },
+
+  "termsSuffix": ". Please read this agreement before continuing.",
+  "@termsSuffix": {
+    "description": "Terms checkbox suffix text"
+  },
+
+  "showLess": "Show Less",
+  "@showLess": {
+    "description": "Show less button text"
+  },
+
+  "readMore": "Read More",
+  "@readMore": {
+    "description": "Read more button text"
+  },
+
+  "token": "Token",
+  "@token": {
+    "description": "Token label"
+  },
+
+  "perWeek": "Per week",
+  "@perWeek": {
+    "description": "Per week label"
+  }
+}

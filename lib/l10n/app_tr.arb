@@ -1,0 +1,175 @@
+{
+  "@@locale": "tr",
+
+  "appName": "Shartflix",
+
+  "loading": "Yükleniyor...",
+
+  "error": "Hata",
+
+  "errorOccurred": "Bir hata oluştu",
+
+  "noContentYet": "Henüz içerik yok",
+
+  "success": "Başarılı",
+
+  "retry": "Tekrar Dene",
+
+  "cancel": "İptal",
+
+  "confirm": "Onayla",
+
+  "close": "Kapat",
+
+  "save": "Kaydet",
+
+  "login": "Giriş Yap",
+
+  "register": "Kayıt Ol",
+
+  "logout": "Çıkış Yap",
+
+  "email": "E-Posta",
+
+  "password": "Şifre",
+
+  "confirmPassword": "Şifre Tekrar",
+
+  "name": "Ad Soyad",
+
+  "forgotPassword": "Şifremi Unuttum",
+
+  "dontHaveAccount": "Bir hesabın yok mu?",
+
+  "alreadyHaveAccount": "Zaten hesabın var mı?",
+
+  "loginFailed": "Giriş başarısız",
+
+  "registerFailed": "Kayıt başarısız",
+
+  "passwordsNotMatch": "Şifreler eşleşmiyor",
+
+  "sessionEnded": "Oturumunuz sonlandı",
+
+  "loginSubtitle": "Kullanıcı bilgilerinle giriş yap",
+
+  "invalidEmail": "Geçersiz e-posta adresi",
+
+  "passwordTooShort": "Şifre en az 6 karakter olmalıdır",
+
+  "nameTooShort": "Ad Soyad en az 2 karakter olmalıdır",
+
+  "profile": "Profil",
+
+  "favorites": "Beğendiklerim",
+
+  "addPhoto": "Fotoğraf Ekle",
+
+  "noFavorites": "Henüz favori filmin yok",
+
+  "unknownStudio": "Bilinmeyen Stüdyo",
+
+  "limitedOffer": "Sınırlı Teklif",
+
+  "limitedOfferDescription": "Jeton paketinizi seçerek bonus kazanın ve yeni bölümlerin kilidini açın!",
+
+  "spotlight": "Öne\nÇıkarma",
+
+  "moreLikes": "Daha Fazla\nBeğeni",
+
+  "profileLoadFailed": "Kullanıcı bilgileri yüklenemedi",
+
+  "home": "Ana Sayfa",
+
+  "movies": "Filmler",
+
+  "series": "Diziler",
+
+  "search": "Ara",
+
+  "noMovies": "Film bulunamadı",
+
+  "noMoviesYet": "Henüz film yok",
+
+  "loadMore": "Daha Fazla Yükle",
+
+  "settings": "Ayarlar",
+
+  "theme": "Tema",
+
+  "language": "Dil",
+
+  "selectTheme": "Tema Seçin",
+
+  "selectLanguage": "Dil Seçin",
+
+  "currentTheme": "Mevcut Tema",
+
+  "currentLanguage": "Mevcut Dil",
+
+  "redTheme": "Kırmızı",
+
+  "blueTheme": "Mavi",
+
+  "greenTheme": "Yeşil",
+
+  "purpleTheme": "Mor",
+
+  "orangeTheme": "Turuncu",
+
+  "networkError": "İnternet bağlantınızı kontrol edin.",
+
+  "serverError": "Sunucu hatası. Lütfen daha sonra tekrar deneyin.",
+
+  "unexpectedError": "Beklenmeyen bir hata oluştu.",
+
+  "authenticationError": "Oturumunuz sonlandı. Lütfen tekrar giriş yapın.",
+
+  "orContinueWith": "veya şununla devam et:",
+
+  "googleLogin": "Google ile Giriş",
+
+  "appleLogin": "Apple ile Giriş",
+
+  "facebookLogin": "Facebook ile Giriş",
+
+  "createAccount": "Hesap Oluştur",
+
+  "registerSubtitle": "Kullanıcı bilgilerini girerek kaydol",
+
+  "uploadPhoto": "Fotoğraf Yükle",
+
+  "uploadPhotoDescription": "Profil fotoğrafın için görsel yükleyebilirsin",
+
+  "profileDetails": "Profil Detayı",
+
+  "continueButton": "Devam Et",
+
+  "skip": "Atla",
+
+  "photoSelectionError": "Fotoğraf seçilirken hata oluştu",
+
+  "yourBonuses": "Alacağınız Bonuslar",
+
+  "premiumAccount": "Premium Hesap",
+
+  "moreMatches": "Daha Fazla Eşleşme",
+
+  "selectTokenPackage": "Kilidi açmak için bir jeton paketi seçin",
+
+  "seeAllTokens": "Tüm Jetonları Gör",
+
+  "termsPrefix": "Kullanıcı sözleşmesini ",
+
+  "termsAccept": "Okudum ve Kabul ediyorum",
+
+  "termsSuffix": ". Bu sözleşmeyi okuyarak devam ediniz lütfen.",
+
+  "showLess": "Daha Az",
+
+  "readMore": "Devamı Oku",
+
+  "token": "Jeton",
+
+  "perWeek": "Başına haftalık"
+}
